@@ -14,11 +14,12 @@ and retrieves those files from the server either local host or remotely and disp
 
 ## __SEARCH ENGINES__
 We have diffrent web browsers. <br/>
-* Safari <br />
-* Chrome(google) <br />
-* Moxzila(firefox <br />
-* Interent explorer <br />
-* Opera <br />
+1. Safari <br />
+2. Chrome(google) <br />
+3. Moxzila(firefox <br />
+4. Interent explorer <br />
+5. Opera <br />
+
 Different browsers use diffrent engines <br/>
 * Safari uses webkit <br/>
 * chrome(from version15) uses blink, a fork of webkit <br/>

@@ -14,19 +14,22 @@ and retrieves those files from the server either local host or remotely and disp
 
 ## __SEARCH ENGINES__
 We have diffrent web browsers. <br/>
-1.safari <br />
-2.chrome(google) <br />
-3.moxzila(firefox <br />
-4.interent explorer <br />
-5.opera <br />
+* Safari <br />
+* Chrome(google) <br />
+* Moxzila(firefox <br />
+* Interent explorer <br />
+* Opera <br />
 Different browsers use diffrent engines <br/>
-+Safari uses webkit <br/>
-+chrome(from version15) uses blink, a fork of webkit <br/>
-+firefox uses gecko <br/>
-+internet explorer uses trident<br/>
-+opera uses blink, a fork of webkit<br/>
+* Safari uses webkit <br/>
+* chrome(from version15) uses blink, a fork of webkit <br/>
+* firefox uses gecko <br/>
+* internet explorer uses trident<br/>
+* opera uses blink, a fork of webkit<br/>
 
 ### __SUMMARY__
 In a nutshell the web browser are made of c++ code.
+
+### __REFERENCES__
+
 
 

@@ -31,6 +31,8 @@ Different browsers use diffrent engines <br/>
 In a nutshell the web browser are made of c++ code.
 
 ### __REFERENCES__
+HTML5- how web browsers work [www.html5rocks.com]
+journal-ptgmedia- chapter18pdf [www.ptgmedia.personcmg.com]
 
 
 
